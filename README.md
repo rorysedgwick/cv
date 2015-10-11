@@ -1,8 +1,13 @@
 # Rory Sedgwick  
-### Full Stack Javascript Developer
+#### Full Stack Javascript Developer
 
 #### rory.sedgwick@gmail.com    |    [LinkedIn](uk.linkedin.com/in/rorysedgwick)   |   [GitHub](https://github.com/rorysedgwick) 
 --------
+
+## Why I am a Developer
+
+I have always had a keen interest in computers and technology, which has recently progressed into a full time career in web development. I discovered a love for coding and a passion to learn more. I love how these skills allow me to reach people and raise awareness of important issues.  
+
 
 ### Skills
 
@@ -31,10 +36,6 @@
 
 See more on [GitHub](https://github.com/rorysedgwick)
 
-## Why I am a Developer
-
-I have always had a keen interest in computers and technology, which has recently progressed into a full time career in web development. I discovered a love for coding and a passion to learn more. I love how these skills allow me to reach people and raise awareness of important issues.  
-
 ## Experience
 
 ### Front End Developer, WCRS Digital Media (July 2015 - Present)
@@ -55,8 +56,7 @@ Involved in region-specific web-site localisation, testing and quality control f
 Freelance Projects
 ----------
 
-### Stockport Council
-**(2015)**
+### Stockport Council (2015)
 
 An online repository of support materials and advice for individuals affected by suicide. Intended to primarily support those in the Stockport & Greater Manchester area but also to include relevant and educative information for people anywhere in the world that experience stress related to suicide.
 
@@ -66,8 +66,7 @@ An online repository of support materials and advice for individuals affected by
 * HTML templating engines, to create an accessible interface
 * Working simultaneously as project manager, lead developer and client contact
   
-### Chandelier
-**(2015)**
+### Chandelier (2015)
 
 An order management application for a bespoke glass-blowing workshop. Tracking of jobs and associated metadata, as well as job subcomponents and associated metadata.
 
@@ -79,8 +78,7 @@ An order management application for a bespoke glass-blowing workshop. Tracking o
 Other Experience
 ----------
 
-### Center Coordinator, Whale Shark & Oceanographic Research Center, Útila, Honduras
-**(2014)**
+### Center Coordinator, Whale Shark & Oceanographic Research Center, Útila, Honduras (2014)
 
 Managed an oceanographic research centre on the Caribbean coast of Honduras. Duties included:
 * Managing center finances, including handling cash payments & deposits
