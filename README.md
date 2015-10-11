@@ -1,64 +1,58 @@
 # Rory Sedgwick  
+### Full Stack Javascript Developer
 
 #### rory.sedgwick@gmail.com    |    [LinkedIn](uk.linkedin.com/in/rorysedgwick)   |   [GitHub](https://github.com/rorysedgwick) 
 --------
 
-I am a Web Developer, with a background in marine biology, conservation and public sector customer service.  
-I am keen to expand my knowledge base and understanding of all aspects of web development. 
-I am a quick learner and passionate about being good at what I do.
+### Skills
 
-#### Key Skills:
-* Excellent inter-personal and group-work skills
-* Thoroughly enjoy spreading the knowledge and skills I have with those I work with
-* High level of commitment to any project I undertake or am involved in
-* Responsible, driven and passionate about personal development  
+| Languages | Frameworks/Libraries | Testing   | Tools/Others    | Databases |
+|:---------:|:--------------------:|:---------:|:---------------:|:---------:|
+| Javascript| Hapi.js              | Tape/Tap  | Git & GitHub    | PostgreSQL|
+| Node.js   | React.js             | Jest      | npm             | MongoDB   |
+| HTML5     | D3.js                | QUnit     | SVN             | |
+| CSS3      |                      | Lab       | Amazon S3       | |
+| SQL       |                      | Mocha     | Heroku          | | 
+| Sass      |                      | Assert    | Photoshop       | |
+| Markdown  |                      | Jasmine   | Pivotal Tracker | |
 
-___
+* Paired programming and collaborative development
+* Agile values, principles and practice
+* Project management using Pivotal Tracker, Trello
+* API integration including Facebook, Gmail and Twitter
 
 ## Portfolio Samples
 
-- [Stockport Suicide Prevention](https://github.com/stockport/stockport.github.io) - an online source of supportive materials and advice for those affected by suicide.
-
 - [Chandelier](https://github.com/foundersandcoders/chandelier) - an order management application for a bespoke glass-blowing workshop.
 
-- [Bank of England Data Visualisation](https://github.com/rorysedgwick/d33p-cover) - a simple example of using D3.js to highlight and convey data trends/correlations
+- [Stockport Suicide Prevention](https://github.com/stockport/stockport.github.io) - an online source of supportive materials and advice for those affected by suicide.
+
+- [Bank of England Data Visualisation](https://github.com/rorysedgwick/d33p-cover) - a simple example of using D3.js to highlight and convey data correlations
 
 See more on [GitHub](https://github.com/rorysedgwick)
-
 
 ## Why I am a Developer
 
 I have always had a keen interest in computers and technology, which has recently progressed into a full time career in web development. I discovered a love for coding and a passion to learn more. I love how these skills allow me to reach people and raise awareness of important issues.  
 
-I recently graduated from Founders and Coders, an intensive 16 week web development bootcamp, and am currently doing freelance development work.
+## Experience
 
+### Front End Developer, WCRS Digital Media (July 2015 - Present)
+Involved in region-specific web-site localisation, testing and quality control for one of the world's largest technology innovators. Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence. 
 
-## Founders and Coders (January 2015 - April 2015)
-* Full-time 16-week intensive coding academy  
-* Full-stack Javascript development, including Node.js, D3.js and React  
+#### Skills Developed
+* Rapid familiarisation with a large, unfamiliar codebase and resource management system
+* Front end quality control, error fixing and application of tight design specifications
+* Working as part of a large, multinational team with strict deadlines and short turnaround times
+* Consistently and accurately implementing correct business processes to ensure efficient workflow
+
+### Founders and Coders (January 2015 - July 2015)
+* Full-time 16-week intensive coding academy with subsequent freelance work
+* Full-stack Javascript development, including Node.js, D3.js and React.js 
 * Emphasis on team-based learning and cooperative progression  
 * Test Driven Development heavily prioritised, with best practices, Agile methodologies and pair programming
 
-### Skills
-* JavaScript
-* HTML5
-* CSS3 and Sass
-* jQuery
-* Node.js
-* Pair programming
-* Test Driven Development using assertion libraries including Assert, Jest, Mocha, QUnit, Tape
-* Version control using git and Github
-* Agile values, principles and practice
-* Project management using Pivotal Tracker, Trello
-* Deployment
-* Twitter Bootstrap
-* PostgreSQL
-* Mongodb
-* Markdown
-* Amazon S3 storage
-* API integration including Facebook, Gmail and Twitter
-
-Employment
+Freelance Projects
 ----------
 
 ### Stockport Council
@@ -77,11 +71,13 @@ An online repository of support materials and advice for individuals affected by
 
 An order management application for a bespoke glass-blowing workshop. Tracking of jobs and associated metadata, as well as job subcomponents and associated metadata.
 
-####Skills developed
+#### Skills developed
 * Complex interactive user interface, built with React.js
 * Backend routing, authentication and SQL database integration
 * Project management and client relations
   
+Other Experience
+----------
 
 ### Center Coordinator, Whale Shark & Oceanographic Research Center, Útila, Honduras
 **(2014)**
@@ -98,15 +94,22 @@ ____
 
 Education
 ---------
-|      Dates      |       Institution       |              Subject(s)              |
-| --------------- |-------------------------|--------------------------------------|
-|  2009 - 2012 | Newcastle University    | Marine Biology BSc, 2:1 |
-|  2007 - 2009 | La Swap 6th Form College    | A level History (B), Biology (C), Physics (C) |
-|  2001 - 2007 | Acland Burghley School | 10 GCSEs (A*/B) |
+|      Dates      |       Institution         |              Subject(s)              |
+| --------------- |---------------------------|--------------------------------------|
+|  2009 - 2012    | Newcastle University      | Marine Biology BSc, 2:1 |
+|  2007 - 2009    | La Swap 6th Form College  | A level History (B), Biology (C), Physics (C) |
+|  2001 - 2007    | Acland Burghley School    | 10 GCSEs (A*/B) |
 
 About me
 ------
+I am a Web Developer with a background in marine biology, conservation and public sector customer service. I am looking for work that will consistently challenge me, expand my knowledge and understanding of all aspects of web development. I am an enthusiastic learner and passionate about being good at what I do.  
 
-I am also a keen marine biologist, SCUBA diver and free diver. I love travelling and exploring new frontiers, am an avid reader of science fiction and football enthusiast.
+#### Additional Skills:
+* Excellent inter-personal and group-work skills
+* Thoroughly enjoy spreading the knowledge and skills I have with those I work with
+* High level of commitment to any project I undertake or am involved in
+* Responsible, driven and passionate about personal development  
+
+I am also a keen marine biologist, a PADI SCUBA Dive Master and a free diver. I love travelling and exploring new frontiers, am an avid reader of science fiction and football enthusiast.
 
 
