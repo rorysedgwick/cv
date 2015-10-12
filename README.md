@@ -38,7 +38,7 @@ See more on [GitHub](https://github.com/rorysedgwick)
 
 ## Experience
 
-### Front End Developer, WCRS Digital Media (July 2015 - Present)
+### Front End Developer, [WCRS](http://www.wcrs.com/) (July 2015 - Present)
 Involved in region-specific web-site localisation, testing and quality control for one of the world's largest technology innovators. Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence. 
 
 #### Skills Developed
@@ -47,7 +47,7 @@ Involved in region-specific web-site localisation, testing and quality control f
 * Working as part of a large, multinational team with strict deadlines and short turnaround times
 * Consistently and accurately implementing correct business processes to ensure efficient workflow
 
-### Founders and Coders (January 2015 - July 2015)
+### [Founders and Coders](http://www.foundersandcoders.com/) (January 2015 - July 2015)
 * Full-time 16-week intensive coding academy with subsequent freelance work
 * Full-stack Javascript development, including Node.js, D3.js and React.js 
 * Emphasis on team-based learning and cooperative progression  
