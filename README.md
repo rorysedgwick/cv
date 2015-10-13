@@ -16,10 +16,10 @@ I have always had a keen interest in computers and technology, which has recentl
 | Javascript| Hapi.js              | Tape/Tap  | Git & GitHub    | PostgreSQL|
 | Node.js   | React.js             | Jest      | npm             | MongoDB   |
 | HTML5     | D3.js                | QUnit     | SVN             | |
-| CSS3      |                      | Lab       | Amazon S3       | |
+| CSS3      |                      | Jasmine   | Amazon S3       | |
 | SQL       |                      | Mocha     | Heroku          | | 
 | Sass      |                      | Assert    | Photoshop       | |
-| Markdown  |                      | Jasmine   | Pivotal Tracker | |
+| Markdown  |                      |           | Pivotal Tracker | |
 
 * Paired programming and collaborative development
 * Agile values, principles and practice
