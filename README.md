@@ -95,7 +95,7 @@ Education
 |      Dates      |       Institution         |              Subject(s)              |
 | --------------- |---------------------------|--------------------------------------|
 |  2009 - 2012    | Newcastle University      | Marine Biology BSc, 2:1 |
-|  2007 - 2009    | La Swap 6th Form College  | A level History (B), Biology (C), Physics (C) |
+|  2007 - 2009    | La Swap 6th Form College  | A level History (B), Biology (C), Physics (D) |
 |  2001 - 2007    | Acland Burghley School    | 10 GCSEs (A*/B) |
 
 About me
